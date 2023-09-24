@@ -17,6 +17,10 @@ You can try the live demo [here](https://suryaprakashkalyanam.github.io/Quiz-App
 
 ![image](https://github.com/SURYAPRAKASHKALYANAM/Quiz-App-Using-JAVA-SCRIPT/assets/115471106/379bd3db-afaa-404a-8bd2-6644f0db6195)
 
+<h2>Score Card</h2>
+
+![image](https://github.com/SURYAPRAKASHKALYANAM/Quiz-App-Using-JAVA-SCRIPT/assets/115471106/caf4b27f-7bf4-40bb-af4d-c212fdacb1fa)
+
 ## How It Works 🚀⚙️
 
 The app operates as follows:
