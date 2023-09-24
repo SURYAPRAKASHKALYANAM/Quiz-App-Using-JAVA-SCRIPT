@@ -4,7 +4,7 @@ A simple quiz application that fetches questions from the [Open Trivia Database]
 
 ## Demo 🎮
 
-You can try the live demo [here](insert-demo-link-here). 🌐
+You can try the live demo [here](https://suryaprakashkalyanam.github.io/Quiz-App-Using-JAVA-SCRIPT/). 🌐
 
 ## Features 🌟
 
@@ -15,7 +15,7 @@ You can try the live demo [here](insert-demo-link-here). 🌐
 
 ## Screenshots 📷
 
-![Quiz App Screenshot](insert-screenshot-link-here)
+![image](https://github.com/SURYAPRAKASHKALYANAM/Quiz-App-Using-JAVA-SCRIPT/assets/115471106/379bd3db-afaa-404a-8bd2-6644f0db6195)
 
 ## How It Works 🚀⚙️
 
